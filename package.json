@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "name": "poo-apifastify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/henriquebego37/poo-apifastify.git",
+  "author": "henriquebego37 <henriquedev37@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/nodemon": "^1.19.6",
+    "fastify": "^5.0.0",
+    "nodemon": "^3.1.5"
+  }
+}
